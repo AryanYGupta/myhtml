@@ -1,0 +1,41 @@
+
+        .red-box{
+            background-color: crimson;
+            padding: 25px;
+            margin:-15px;
+            color: #fff;
+            font-size: 50px;
+            text-align: center;
+            font-family: 'Times New Roman';
+            font-weight: 1px;
+        }
+        .brown-box{
+            font-size:20px;
+        }
+        .red1-box{
+            background-color: crimson;
+            padding-top: 3px;
+            padding-bottom: 3px;
+            margin: 50px 559px 0px 559px;
+            text-align: center;
+            font-size: 20px;
+            color: #fff;
+            font-family: 'Times New Roman', Times, serif;
+
+
+        }
+        p{
+            text-align: center;
+            font-size: 20px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        h3{
+            text-align: center;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        h4{
+            text-align: center;
+            font-size: 15px;
+            font-family: 'Times New Roman', Times, serif;
+            margin: 50px 0px 0px 0px;
+        }
